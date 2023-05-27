@@ -54,7 +54,7 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logo-2.sg"
+                  src="/images/logo/logo-2.svg"
                   alt="NextSurf"
                   width={140}
                   height={30}
