@@ -62,11 +62,11 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
   const { image, name } = brand;
 
   return (
-    <div className="mx-3 flex w-full max-w-[160px] items-center justify-center py-[15px] sm:mx-4 lg:max-w-[130px] xl:mx-6 xl:max-w-[300px] 2xl:mx-8 2xl:max-w-[160px]">
+    <div className="mx-3 flex w-full max-w-[300px] items-center justify-center py-[15px] sm:mx-4 lg:max-w-[300px] xl:mx-6 xl:max-w-[300px] 2xl:mx-8 2xl:max-w-[300px]">
       <a
         target="_blank"
         rel="nofollow noreferrer"
-        className="relative h-10 w-full transition opacity-100 hover:grayscale-0"
+        className="relative h-72 w-full transition opacity-100 hover:grayscale-0"
       >
         <Image src={image} alt={name} fill />
       </a>
