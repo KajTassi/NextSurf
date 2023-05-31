@@ -29,8 +29,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  Follow us on Social Media
                 </p>
                 <div className="flex items-center">
                   <a
@@ -114,7 +113,7 @@ const Footer = () => {
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                     >
                       {" "}
-                      Pricing{" "}
+                      Reviews{" "}
                     </a>
                   </li>
                   <li>
@@ -154,15 +153,6 @@ const Footer = () => {
                       Privacy Policy{" "}
                     </a>
                   </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
-                    >
-                      {" "}
-                      Refund Policy{" "}
-                    </a>
-                  </li>
                 </ul>
               </div>
             </div>
@@ -170,7 +160,7 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Support & Help
+                  Feedback
                 </h2>
                 <ul>
                   <li>

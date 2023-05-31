@@ -8,7 +8,7 @@ const Blog = () => {
       <div className="container">
         <SectionTitle
           title="Recent Articles"
-          paragraph="Poly vs EPS."
+          paragraph="Full list of articles can be found in the article section, but our three most recent pieces are here."
           center
         />
 
