@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are expecting to go live in the fall of 2023"
-          paragraph="Currently this iteration of the site is only available to show progress and is not live."
+          title="Watch the WSL differently"
+          paragraph="We are going to be streaming a co-host of the semi-finals and finals of WSL events. We are not going to be narratiting every turn on every wave and will leave it open for people to hang out or costream with us."
           center
           mb="80px"
         />
