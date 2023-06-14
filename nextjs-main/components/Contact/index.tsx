@@ -12,7 +12,7 @@ const Contact = () => {
               "
             >
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
-                Want to add a beach or are our conditions incorrect? Let us know!
+                Want to add a beach or are our conditions incorrect? Let us know! We plan on growing and improving our site.
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
                 This site runs on collaboriation, and our we will send you back on email to confirm your feedback.
