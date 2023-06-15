@@ -31,9 +31,9 @@ const blogData: Blog[] = [
   },
   {
     id: 3,
-    title: "Wave measuring consistancy.",
+    title: "Reading Swell Periods",
     paragraph:
-      "Do Californian's probably over judge how big waves are? What is the best way to measure the size of a wave?",
+      "Ever had a bad time when the swell period is 'good'? Learn more about what breaks like what swell periods.",
     image: "/images/blog/wazesize.jpg",
     author: {
       name: "Kaj Tassi",
