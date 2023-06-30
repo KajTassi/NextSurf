@@ -20,7 +20,7 @@ const blogData: Blog[] = [
     title: "Poly vs EPS",
     paragraph:
       "Not sure what to buy for your next board? Constuction plays a big part in how the board will ride, the cost, and what waves it will work in.",
-    image: "/images/blog/blog-02.jpg",
+    image: "/images/blog/core.jpg",
     author: {
       name: "Kaj Tassi",
       image: "/images/blog/icons8-surf-50.png",
