@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Searchbar from "./searchbar";
 
 const Hero = () => {
   return (
@@ -33,6 +34,9 @@ const Hero = () => {
                   >
                     Photo two
                   </Link>
+                </div>
+                <div>
+                    <Searchbar />
                 </div>
               </div>
             </div>
