@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import {AiOutlineSearch} from 'react-icons/ai'
-import { words } from '@/lib/data'
+import { surfSpots } from ''
 // Remember to import words or whatever you're using to store all the words the user can search for
 
 const Searchbar = () => {
@@ -14,7 +14,7 @@ const Searchbar = () => {
             setActiveSearch([])
             return false
         }
-        setActiveSearch(words.filter(w => w.includes(e.target.value)).slice(0,8))
+        setActiveSearch(surfSpots.filter(w => w.includes(e.target.value)).slice(0,8))
     }
 
   return (
