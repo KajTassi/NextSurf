@@ -1,0 +1,15 @@
+export const spots = [
+    'Blacks',
+    'Torry Pines',
+    'Pacific Beach',
+    'Ocean Beach',
+    'North Ponto',
+    'Tables',
+    'Pill Box',
+    'The Rock',
+    'Sunset Cliffs',
+    'Scripps',
+    'Del Mar 15th street',
+    'Del Mar Beach Break',
+    'Del Mar Rivermouth',
+]
