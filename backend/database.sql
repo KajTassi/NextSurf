@@ -1,6 +1,6 @@
 CREATE DATABASE perntodo;
 
-CREATE TABLE todo(
-    todo_id SERIAL PRIMARY KEY,
+CREATE TABLE beach_id(
+    beach_id SERIAL PRIMARY KEY,
     description VARCHAR(255)
 );
