@@ -3,11 +3,11 @@ const Pool = require("pg").Pool;
 //change database
 
 const pool = new Pool({
-    user: "zzuajsqe",
-    password: "bS6ZEKnzSWiOLsYsuAXl09BR8T-RXy8c",
-    host: "kashin.db.elephantsql.com",
+    user: "vutwayxp",
+    password: "ywZg0XUWNFO9Ygv3ZWyDm8uvOf2tClmJ",
+    host: "mahmud.db.elephantsql.com",
     port: 5432,
-    database: "zzuajsqe"
+    database: "vutwayxp"
 });
 
 module.exports = pool;
