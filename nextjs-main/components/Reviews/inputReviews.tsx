@@ -14,7 +14,7 @@ const InputReviews = () => {
         body: JSON.stringify(body)
       });
 
-      window.location = "/";
+      window.location.href = "/";
     } catch (err) {
       console.error(err.message);
     }

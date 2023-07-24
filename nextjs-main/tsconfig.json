@@ -23,6 +23,6 @@
       }
     ]
   },
-  "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx", "components/Hero/SurfArray.js"],
+  "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx", "components/Hero/SurfArray.js", "components/Reviews/reviews.js", "components/Reviews/index.js", "components/Reviews/editReviews.js", "components/Reviews/inputReviews.js", "components/Reviews/listReviews.js"],
   "exclude": ["node_modules"]
 }
