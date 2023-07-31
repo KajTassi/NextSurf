@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import {AiOutlineSearch} from 'react-icons/ai'
-import { spots } from './SurfArray'
+import { spots } from './array'
 // Remember to import words or whatever you're using to store all the words the user can search for
 
 const Searchbar = () => {
